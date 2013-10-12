@@ -1,6 +1,3 @@
-/**
- * GITHUB - LUCASOLIVEIRA94
- */
 
 import javax.swing.*;
 import java.awt.event.*;
