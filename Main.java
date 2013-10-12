@@ -1,5 +1,5 @@
 /**
- * GITHUB - LUCASOLIVEIRA94
+ * GITHUB
  */
 
 public class Main{
