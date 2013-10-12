@@ -1,6 +1,3 @@
-/**
- * GITHUB - LUCASOLIVEIRA94
- */
 
 public class Game{
   
