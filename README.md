@@ -1,4 +1,3 @@
-Jogo-da-Vida-Java
+Jogo da vida simples em Java Conways
 =================
-
-Jogo da Vida Simples em Java
+Game of Life Conways
